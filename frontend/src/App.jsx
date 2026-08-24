@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 import "./App.css";
-import Login from "./Login";
+import Login from "./login";
 
 const API_URL = "http://10.146.163.42:5000/api";
 

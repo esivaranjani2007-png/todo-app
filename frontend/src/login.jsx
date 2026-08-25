@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://10.146.163.42:5000/api";
+const API_URL =  "https://todo-app-7n82.onrender.com/api";
 
 function Login({ onLogin }) {
   const [isRegister, setIsRegister] = useState(false);
